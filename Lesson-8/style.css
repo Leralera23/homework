@@ -1,0 +1,24 @@
+.section-one {
+    color: white;
+    background-color: rgb(73, 47, 47);
+}
+
+.color-line {
+    color: rgb(195, 43, 226);
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(172, 19, 19);
+}
+
+.section-two {
+    background-color: rgb(236, 111, 236);
+    width: 300px;
+}
+
+.items {
+    color: white;
+    background-color: rgb(118, 6, 146);
+}
